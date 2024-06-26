@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container1 {
+    background-color: #2d3a8c;
+    background-size: cover;
+    text-align: left;
+}
+
+.hello {
+    font-size: 20px;
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+.name {
+    font-size: 30px;
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+.bg-container2 {
+    background-color: #ffffff;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-size: cover;
+    height: 100vh;
+}
+
+.bookmark-heading {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.formbg {
+    background-color: #f5f7fa;
+    background-size: cover;
+    border-radius: 25px;
+    border-color: #e4e7eb;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.label-style {
+    color: #7b8794;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.btn-style {
+    background-color: #21396c;
+    border-radius: 4px;
+    color: #ffffff;
+    padding: 5px;
+    width: 80px;
+}
+
+.list-bg {
+    background-color: #f5f7fa;
+    border-radius: 20px;
+    background-size: cover;
+    padding: 10px;
+    border-color: #e4e7eb;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.list-para {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Roboto;
+}
+
+.list-link {
+    color: blue;
+}
+
+.error-msg {
+    color: #dc3545;
+}
